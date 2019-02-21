@@ -11,6 +11,9 @@ jupyter = "*"
 gitpython = "*"
 sklearn = "*"
 seaborn = "*"
+theano = "*"
+requests = "*"
+"pymc3" = "*"
 
 [dev-packages]
 
